@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0325ba19-6e72-4ef2-b399-5a2a3e1dc082" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login_pannel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mainpanel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/excel_read.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/generate_templates.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spliter_windows.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pyCreateIDE" afterPath="$PROJECT_DIR$/pyCreateIDE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login_pannel.py" afterPath="$PROJECT_DIR$/login_pannel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpanel.py" afterPath="$PROJECT_DIR$/mainpanel.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,13 +18,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/spyder_cninfo$mainpanel__1_.coverage" NAME="mainpanel (1) Coverage Results" MODIFIED="1517747308251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spyder_cninfo$mainpanel__1_.coverage" NAME="mainpanel (1) Coverage Results" MODIFIED="1518240868016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spyder_cninfo$excel_read.coverage" NAME="excel_read Coverage Results" MODIFIED="1518267145596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spyder_cninfo$spliter_windows.coverage" NAME="spliter_windows Coverage Results" MODIFIED="1518250385630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/spyder_cninfo$login.coverage" NAME="login Coverage Results" MODIFIED="1517726112996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyCreateIDE" />
-    <SUITE FILE_PATH="coverage/spyder_cninfo$codeHighlight.coverage" NAME="codeHighlight Coverage Results" MODIFIED="1517731819938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyCreateIDE" />
-    <SUITE FILE_PATH="coverage/spyder_cninfo$mainpanel.coverage" NAME="mainpanel Coverage Results" MODIFIED="1517732501542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyCreateIDE" />
-    <SUITE FILE_PATH="coverage/spyder_cninfo$login_pannel.coverage" NAME="login_pannel Coverage Results" MODIFIED="1517747162334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spyder_cninfo$mainpanel.coverage" NAME="mainpanel Coverage Results" MODIFIED="1518228785971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyCreateIDE" />
+    <SUITE FILE_PATH="coverage/spyder_cninfo$codeHighlight.coverage" NAME="codeHighlight Coverage Results" MODIFIED="1518231389203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyCreateIDE" />
+    <SUITE FILE_PATH="coverage/spyder_cninfo$login_pannel.coverage" NAME="login_pannel Coverage Results" MODIFIED="1518230662990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/spyder_cninfo$js.coverage" NAME="js Coverage Results" MODIFIED="1517716889781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/spyder_cninfo$login_done.coverage" NAME="login_done Coverage Results" MODIFIED="1517728208069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyCreateIDE" />
+    <SUITE FILE_PATH="coverage/spyder_cninfo$login_done.coverage" NAME="login_done Coverage Results" MODIFIED="1517747474785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyCreateIDE" />
     <SUITE FILE_PATH="coverage/spyder_cninfo$spyer_cninfo.coverage" NAME="spyer_cninfo Coverage Results" MODIFIED="1517717526031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/spyder_cninfo$login_process.coverage" NAME="login_process Coverage Results" MODIFIED="1517726396163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyCreateIDE" />
   </component>
@@ -30,7 +35,7 @@
       <file leaf-file-name="spyer_cninfo.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spyer_cninfo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
+            <state relative-caret-position="31">
               <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="30" />
               <folding />
             </state>
@@ -40,8 +45,8 @@
       <file leaf-file-name="autoComplete.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pyCreateIDE/autoComplete.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+            <state relative-caret-position="186">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding>
                 <element signature="e#16#26#0" expanded="true" />
               </folding>
@@ -49,11 +54,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="excel_read.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/excel_read.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="codeHighlight.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pyCreateIDE/codeHighlight.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2232">
-              <caret line="77" column="36" lean-forward="false" selection-start-line="77" selection-start-column="36" selection-end-line="77" selection-end-column="36" />
+            <state relative-caret-position="503">
+              <caret line="161" column="12" lean-forward="true" selection-start-line="161" selection-start-column="12" selection-end-line="161" selection-end-column="12" />
               <folding>
                 <element signature="e#23#66#0" expanded="true" />
               </folding>
@@ -61,18 +76,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pyCreateIDE/login.py">
+      <file leaf-file-name="mainpanel.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyCreateIDE/mainpanel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="341">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login_process.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pyCreateIDE/login_process.py">
+      <file leaf-file-name="mainpanel.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mainpanel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spliter_windows.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spliter_windows.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="497">
+              <caret line="177" column="17" lean-forward="false" selection-start-line="177" selection-start-column="17" selection-end-line="177" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="generate_templates.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generate_templates.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="62">
               <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
@@ -81,46 +122,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login_done.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pyCreateIDE/login_done.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="78" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="login_pannel.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/login_pannel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="75" column="26" lean-forward="true" selection-start-line="75" selection-start-column="26" selection-end-line="75" selection-end-column="26" />
+            <state relative-caret-position="131">
+              <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mainpanel.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pyCreateIDE/mainpanel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="35" column="12" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="67" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mainpanel.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mainpanel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -128,8 +135,8 @@
       <file leaf-file-name="js.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="31" />
+            <state relative-caret-position="155">
+              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -153,7 +160,14 @@
       <find>PyQt4</find>
       <find>Qtgui.</find>
       <find>QtGui.</find>
+      <find>comp.</find>
+      <find>messagesList</find>
+      <find>Qpush</find>
+      <find>newfile</find>
     </findStrings>
+    <replaceStrings>
+      <replace>editor</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -165,11 +179,14 @@
         <option value="$PROJECT_DIR$/spyer_cninfo.py" />
         <option value="$PROJECT_DIR$/pyCreateIDE/login.py" />
         <option value="$PROJECT_DIR$/pyCreateIDE/login_process.py" />
-        <option value="$PROJECT_DIR$/pyCreateIDE/codeHighlight.py" />
         <option value="$PROJECT_DIR$/pyCreateIDE/mainpanel.py" />
         <option value="$PROJECT_DIR$/pyCreateIDE/login_done.py" />
-        <option value="$PROJECT_DIR$/login_pannel.py" />
+        <option value="$PROJECT_DIR$/pyCreateIDE/codeHighlight.py" />
         <option value="$PROJECT_DIR$/mainpanel.py" />
+        <option value="$PROJECT_DIR$/login_pannel.py" />
+        <option value="$PROJECT_DIR$/generate_templates.py" />
+        <option value="$PROJECT_DIR$/spliter_windows.py" />
+        <option value="$PROJECT_DIR$/excel_read.py" />
       </list>
     </option>
   </component>
@@ -179,7 +196,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="123" />
     <option name="y" value="-21" />
     <option name="width" value="1400" />
@@ -209,11 +226,6 @@
             </path>
             <path>
               <item name="spyder_cninfo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spyder_cninfo" type="462c0819:PsiDirectoryNode" />
-              <item name="pyCreateIDE" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spyder_cninfo" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -226,6 +238,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+    <property name="last_opened_file_path" value="C:/ProgramData/Anaconda3/python.exe" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -239,7 +253,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.mainpanel (1)">
+  <component name="RunManager" selected="Python.excel_read">
     <configuration name="codeHighlight" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,6 +268,24 @@
       <module name="spyder_cninfo" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyCreateIDE/codeHighlight.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="excel_read" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="spyder_cninfo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excel_read.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -294,24 +326,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="login_process" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyCreateIDE" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="spyder_cninfo" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyCreateIDE/login_process.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <configuration name="mainpanel (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -330,20 +344,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="mainpanel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="spliter_windows" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyCreateIDE" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="spyder_cninfo" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyCreateIDE/mainpanel.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spliter_windows.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -351,18 +365,18 @@
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.login_done" />
       <item index="1" class="java.lang.String" itemvalue="Python.codeHighlight" />
-      <item index="2" class="java.lang.String" itemvalue="Python.login_process" />
-      <item index="3" class="java.lang.String" itemvalue="Python.mainpanel" />
-      <item index="4" class="java.lang.String" itemvalue="Python.login_pannel" />
-      <item index="5" class="java.lang.String" itemvalue="Python.mainpanel (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.login_pannel" />
+      <item index="3" class="java.lang.String" itemvalue="Python.mainpanel (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.spliter_windows" />
+      <item index="5" class="java.lang.String" itemvalue="Python.excel_read" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.mainpanel (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.login_pannel" />
-        <item index="2" class="java.lang.String" itemvalue="Python.mainpanel" />
+        <item index="0" class="java.lang.String" itemvalue="Python.excel_read" />
+        <item index="1" class="java.lang.String" itemvalue="Python.spliter_windows" />
+        <item index="2" class="java.lang.String" itemvalue="Python.mainpanel (1)" />
         <item index="3" class="java.lang.String" itemvalue="Python.codeHighlight" />
-        <item index="4" class="java.lang.String" itemvalue="Python.login_process" />
+        <item index="4" class="java.lang.String" itemvalue="Python.login_pannel" />
       </list>
     </recent_temporary>
   </component>
@@ -383,16 +397,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
-    <editor active="true" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2586393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17656587" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.022673031" sideWeight="0.09449244" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26849642" sideWeight="0.099352054" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.90550756" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293556" sideWeight="0.8941685" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26849642" sideWeight="0.90064794" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21479714" sideWeight="0.90550756" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -429,6 +442,130 @@
     <entry file="file://$PROJECT_DIR$/pyCreateIDE/autoComplete.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding>
+            <element signature="e#16#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyCreateIDE/codeHighlight.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2263">
+          <caret line="78" column="23" lean-forward="false" selection-start-line="78" selection-start-column="23" selection-end-line="78" selection-end-column="23" />
+          <folding>
+            <element signature="e#23#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpanel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" column="60" lean-forward="false" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyCreateIDE/mainpanel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spyer_cninfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyCreateIDE/autoComplete.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding>
+            <element signature="e#16#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyCreateIDE/codeHighlight.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2418">
+          <caret line="78" column="23" lean-forward="false" selection-start-line="78" selection-start-column="23" selection-end-line="78" selection-end-column="23" />
+          <folding>
+            <element signature="e#23#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyCreateIDE/mainpanel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login_pannel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpanel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" column="60" lean-forward="true" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spyer_cninfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyCreateIDE/autoComplete.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="14" lean-forward="true" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
           <folding>
             <element signature="e#16#26#0" expanded="true" />
@@ -446,22 +583,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pyCreateIDE/login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyCreateIDE/login_process.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pyCreateIDE/login.py" />
+    <entry file="file://$PROJECT_DIR$/pyCreateIDE/login_process.py" />
     <entry file="file://$PROJECT_DIR$/pyCreateIDE/mainpanel.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="837">
@@ -482,14 +605,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pyCreateIDE/login_done.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="13" column="41" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pyCreateIDE/login_done.py" />
     <entry file="file://$PROJECT_DIR$/spyer_cninfo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="31">
@@ -518,9 +634,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spyer_cninfo.py">
+    <entry file="file://$PROJECT_DIR$/pyCreateIDE/login.py" />
+    <entry file="file://$PROJECT_DIR$/pyCreateIDE/login_process.py" />
+    <entry file="file://$PROJECT_DIR$/pyCreateIDE/login_done.py" />
+    <entry file="file://$PROJECT_DIR$/js.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spyer_cninfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="30" />
           <folding />
         </state>
@@ -528,41 +657,49 @@
     </entry>
     <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/PyQt5/QtWidgets.pyi">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="1480" column="31" lean-forward="true" selection-start-line="1480" selection-start-column="31" selection-end-line="1480" selection-end-column="31" />
+        <state relative-caret-position="186">
+          <caret line="5380" column="17" lean-forward="true" selection-start-line="5380" selection-start-column="17" selection-end-line="5380" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pyCreateIDE/login.py">
+    <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyCreateIDE/autoComplete.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-          <folding>
-            <element signature="e#16#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pyCreateIDE/codeHighlight.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2232">
-          <caret line="77" column="36" lean-forward="false" selection-start-line="77" selection-start-column="36" selection-end-line="77" selection-end-column="36" />
+        <state relative-caret-position="503">
+          <caret line="161" column="12" lean-forward="true" selection-start-line="161" selection-start-column="12" selection-end-line="161" selection-end-column="12" />
           <folding>
             <element signature="e#23#66#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pyCreateIDE/login_process.py">
+    <entry file="file://$PROJECT_DIR$/login_pannel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpanel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_templates.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="62">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
@@ -570,49 +707,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js.py">
+    <entry file="file://$PROJECT_DIR$/pyCreateIDE/autoComplete.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="31" />
+        <state relative-caret-position="186">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#16#26#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyCreateIDE/login_done.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="78" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login_pannel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="75" column="26" lean-forward="true" selection-start-line="75" selection-start-column="26" selection-end-line="75" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pyCreateIDE/mainpanel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="35" column="12" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="67" selection-end-column="25" />
+        <state relative-caret-position="341">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mainpanel.py">
+    <entry file="file://$PROJECT_DIR$/spliter_windows.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="497">
+          <caret line="177" column="17" lean-forward="false" selection-start-line="177" selection-start-column="17" selection-end-line="177" selection-end-column="17" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excel_read.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>

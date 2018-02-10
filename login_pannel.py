@@ -1,10 +1,12 @@
 from PyQt5.QtWidgets import QMainWindow, QApplication, QDialog, QLineEdit, QPushButton, QMessageBox, \
-    QLabel, QGridLayout, QComboBox, QMenu
+    QLabel, QGridLayout, QComboBox, QMenu, QInputDialog
 
 
 class Login(QDialog):
     def __init__(self, parent=None):
+
         super(Login, self).__init__(parent)
+
         self.userNameLabel = QLabel('User:')
         self.userName = QLineEdit()
         self.userPwdLabel = QLabel('Password:')
@@ -16,7 +18,7 @@ class Login(QDialog):
         self.mysql_hive_combo.addItem("Hive")
         self.buttonLogin = QPushButton('Login')
         self.buttonLogin.clicked.connect(self.handleLogin)
-
+        self.setWindowTitle('Login')
         self.layout = QGridLayout()
         self.layout.setSpacing(10)
         self.layout.addWidget(self.userNameLabel, 0, 0)
@@ -37,33 +39,6 @@ class Login(QDialog):
             QMessageBox.warning(
                 self, 'Error', 'Bad user or password')
 
-
-class Window(QMainWindow):
-
-    def setupFileMenu(self):
-        fileMenu = QMenu("&File", self)
-        self.menuBar().addMenu(fileMenu)
-
-        fileMenu.addAction("&New...", self.newFile, "Ctrl+N")
-        fileMenu.addAction("&Open...", self.openFile, "Ctrl+O")
-        fileMenu.addAction("E&xit", QApplication.instance().quit, "Ctrl+Q")
-
-    def setupHelpMenu(self):
-        helpMenu = QMenu("&Help", self)
-        self.menuBar().addMenu(helpMenu)
-
-        helpMenu.addAction("&About", self.about)
-        helpMenu.addAction("About &PySQL", QApplication.instance().aboutPySQL)
-
-
-    def __init__(self, parent=None):
-        super(Window, self).__init__(parent)
-        self.setupFileMenu()
-        self.setupHelpMenu()
-        self.setupEditor()
-
-        self.setCentralWidget(self.editor)
-        self.setWindowTitle("Syntax Highlighter")
 
 
 if __name__ == '__main__':
